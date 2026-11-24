@@ -1,4 +1,4 @@
-Git Commands Used
+Git Commands Used to resolve merge conflict
 
 git init
 git add .
